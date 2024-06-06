@@ -1,0 +1,11 @@
+h1 {
+        font-family: "Jost", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 800;
+        font-style: normal;
+        font-size: 5em;
+        color: white;
+        padding: 10px;
+        background-color: rgb(88, 126, 159);
+        text-align: center;
+      }
