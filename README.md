@@ -17,3 +17,5 @@ For the course "portfolio 1" our assignment called for a site to showcase some o
 This is me, come say hi!
 https://www.linkedin.com/in/maren-kristin-johansen-a9bb791bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
+# Link to site
+https://portfolio1-mkj.netlify.app/
