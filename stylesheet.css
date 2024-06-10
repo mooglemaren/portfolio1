@@ -11,9 +11,9 @@ h1 {
 }
 
 .card-container {
-  display: flex; /* Bruker flexbox layout */
-  gap: 10em; /* Angir 20 piksler mellomrom mellom hver card */
-  justify-content: center; /* Sentraliserer cards horisontalt i containeren */
+  display: flex; 
+  gap: 10em; 
+  justify-content: center; 
 }
 
 .card {
